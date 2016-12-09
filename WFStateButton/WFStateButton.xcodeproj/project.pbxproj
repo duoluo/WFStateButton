@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A24A8F81DFA9F41007F48D2 /* buttton.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0A24A8F71DFA9F41007F48D2 /* buttton.gif */; };
 		0A8FE28C1DFA8EBC004F661C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A8FE28B1DFA8EBC004F661C /* AppDelegate.m */; };
 		0A8FE28F1DFA8EBC004F661C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A8FE28E1DFA8EBC004F661C /* main.m */; };
 		0A8FE2911DFA8EBC004F661C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A8FE2901DFA8EBC004F661C /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A24A8F71DFA9F41007F48D2 /* buttton.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = buttton.gif; sourceTree = "<group>"; };
 		0A8FE2871DFA8EBC004F661C /* WFStateButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WFStateButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A8FE28A1DFA8EBC004F661C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0A8FE28B1DFA8EBC004F661C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 		0A8FE2891DFA8EBC004F661C /* WFStateButton */ = {
 			isa = PBXGroup;
 			children = (
+				0A24A8F71DFA9F41007F48D2 /* buttton.gif */,
 				0A8FE28A1DFA8EBC004F661C /* AppDelegate.h */,
 				0A8FE28B1DFA8EBC004F661C /* AppDelegate.m */,
 				0A8FE2901DFA8EBC004F661C /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A8FE2911DFA8EBC004F661C /* Assets.xcassets in Resources */,
+				0A24A8F81DFA9F41007F48D2 /* buttton.gif in Resources */,
 				0A8FE2941DFA8EBC004F661C /* MainMenu.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
